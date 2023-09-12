@@ -16,7 +16,7 @@ namespace Tyuiu.KubasovIV.Sprint0.Task2.V0.Test
 
 
             //Вызываем класс Assert и метод AreEqual
-            Assert.AreEqual("Привет..., Иван", res);
+            Assert.AreEqual("Привет...., Иван", res);
         }
     }
 }
